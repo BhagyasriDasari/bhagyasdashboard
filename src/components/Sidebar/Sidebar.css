@@ -1,0 +1,10 @@
+.sidebar {
+    width: 250px;
+    padding: 1rem;
+    background-color: #e0e0e0;
+  }
+  
+  .sidebar.dark {
+    background-color: #444;
+  }
+  
