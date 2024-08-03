@@ -1,8 +1,7 @@
-// src/components/MainContent/Dashboard/PieChartWidget.js
 import React from 'react';
 import { Pie } from 'react-chartjs-2';
 import { Chart as ChartJS, Title, Tooltip, Legend, ArcElement, CategoryScale, LinearScale } from 'chart.js';
-import './Dashboard.css'; // For styling
+import './Dashboard.css'; 
 
 ChartJS.register(Title, Tooltip, Legend, ArcElement, CategoryScale, LinearScale);
 

@@ -10,3 +10,7 @@ Axios: For making HTTP requests.
 Charting Library: Such as Recharts or Chart.js, for displaying charts.
 CSS Modules: For styling components.
 Any other relevant technologies.
+
+
+
+Deployed link : https://bhagyasboard.netlify.app/

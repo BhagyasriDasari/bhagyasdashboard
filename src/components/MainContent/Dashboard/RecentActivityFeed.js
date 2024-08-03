@@ -1,10 +1,9 @@
-// src/components/RecentActivityFeed.js
 import React from 'react';
 import PropTypes from 'prop-types';
 import './RecentActivityFeed.css';
 
 const RecentActivityFeed = ({ activities = [] }) => {
-  // Ensure activities is always an array
+  
   if (!Array.isArray(activities)) {
     console.error('Activities prop is not an array');
     return <div>Error loading activities</div>;
